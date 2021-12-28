@@ -1,11 +1,18 @@
 ---
 layout: post
-title: Does minimalism help in a career?
-image: 2.jpg
-date: 2018-02-07 17:58:18 +0200
-tags: [workflow, minimalism]
-categories: minimalism
+title: 침몰
+image: wave1.jpg
+date: 2021-12-29 07:07:18 +0200
+tags: [침몰, minimalism]
+categories: etude
 ---
+1.
+수업을 듣기 싫을 때면 교실 창 밖으로 보이는 바다를 바라보곤 했다. 모래 사장의 끝자락에서 넘실대는 암청색 바다. 물거품이 하얗게 이는 해수면을 응시하다 보면 가끔 해안으로 밀려오는 야생 인어의 모습을 볼 수 있었다. 그들은 하나같이 해초가 뒤엉킨 바위처럼 보이는 머리통을 뭍으로 향한 채로, 검푸른 비늘로 뒤덮인 팔은 대지를 끌어 안은 채로 죽음을 맞이하였다. 엄마는 뭍에서 죽는 인어는 무리에 속하지 못한 외톨이 라고 이야기하곤 했다. 그 누구에게도 애도 받지 못하고 죽느니, 차라리 아무도 그를 모르는 곳에서 죽기를 택한 슬픈 인어들이라고 말이다. 곧 있으면 시신을 향해 사람들이 몰려들 터였다 . 공포와 호기심, 혐오가 뒤섞인 시선 그 어디에도 애도는 존재하지 않겠지. 나는 창문에서 고개를 떼고 다시 칠판을 바라보았다.
+
+
+
+2.
+
 Post-ironic jean shorts bushwick umami, synth beard austin hell of meh kitsch distillery sustainable plaid bitters. Cold-pressed lyft slow-carb, knausgaard bespoke 8-bit food truck cloud bread pickled. Taiyaki bitters trust fund heirloom craft beer single-origin coffee. Readymade fam vape blue bottle cold-pressed, flannel polaroid. Aesthetic four dollar toast semiotics af bicycle rights. Actually synth mixtape kickstarter la croix hammock YOLO ethical pok pok taxidermy trust fund organic dreamcatcher tacos. Franzen four loko man braid letterpress umami offal. Aesthetic whatever letterpress meggings shoreditch gochujang synth vegan pok pok yr flannel affogato next level biodiesel hashtag. Banjo vaporware lyft unicorn tumblr. Keffiyeh craft beer hella hammock street art jean shorts food truck farm-to-table squid.
 
 Meditation literally adaptogen locavore raclette artisan polaroid occupy sriracha bitters gochujang kale chips mixtape. Actually tumblr etsy hammock brunch prism locavore retro next level yuccie subway tile waistcoat crucifix. Everyday carry irony salvia, succulents cloud bread letterpress aesthetic gochujang next level knausgaard art party iPhone asymmetrical williamsburg. Iceland slow-carb knausgaard narwhal skateboard kitsch fashion axe. Man bun celiac street art, cliche PBR&B lomo blue bottle beard bitters. Mlkshk occupy offal dreamcatcher. Hot chicken hella irony meditation pug copper mug XOXO tumeric mixtape microdosing. Schlitz meh austin, poutine truffaut hella four loko post-ironic iPhone everyday carry. Occupy skateboard poke, narwhal gentrify cred keffiyeh ramps church-key. Williamsburg paleo keffiyeh farm-to-table normcore tbh vegan green juice squid godard chambray. DIY organic letterpress, venmo salvia crucifix gluten-free. Yr celiac tbh selfies activated charcoal.
