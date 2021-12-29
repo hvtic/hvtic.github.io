@@ -4,12 +4,12 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://hvtic.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Author
-author-name:    Clayton Hanson
-author-image:   1.jpg
-author-job:     Web Developer
-author-email:   your-email@domain.com # Add your email for contant form.
-author-twitter: artemsheludko_ # Add your twitter account
-about-author:   I am a web developer focusing on front-end development. Always hungry to keep learning.
+author-name:    HR Han
+author-image:   pro.jpg
+author-job:     Writer
+author-email:   hrhan823@gmail.com # Add your email for contant form.
+author-twitter:  # Add your twitter account
+about-author:   글을 쓰고 개발 공부를 합니다.
 
 # Social settings
 social-twitter:   artemsheludko_
